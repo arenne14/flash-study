@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "courses": [
+    {
+      "id": "c1",
+      "name": "Data Structures and Algorithms",
+      "color": "pink",
+      "cards": [
+        { "id": "q1", "question": "What does LIFO mean?", "answer": "Last In, First Out", "wrong": ["First In, First Out", "Last In, Last Out"], "status": "unanswered" },
+        { "id": "q2", "question": "Which stack operation adds an item to the top?", "answer": "push", "wrong": ["pop", "peek"], "status": "unanswered" },
+        { "id": "q3", "question": "Which stack operation removes the top item?", "answer": "pop", "wrong": ["push", "enqueue"], "status": "unanswered" },
+        { "id": "q4", "question": "Which one is a real-life stack?", "answer": "A pile of plates", "wrong": ["A line at a cashier", "A row of books"], "status": "unanswered" }
+      ]
+    }
+  ],
+  "recentStack": []
+}
